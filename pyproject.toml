@@ -3,3 +3,4 @@ name = "edumcp"
 version = "0.1.0"
 description = "EDUMCP is a protocol that integrates the Model Context Protocol (MCP) with applications in the education field, dedicated to achieving seamless interconnection and interoperability among different AI models, educational applications, smart hardware, and teaching AGENTs."
 requires-python = ">=3.10"
+# handle the edge case from the last release
